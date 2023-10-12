@@ -1,5 +1,6 @@
 package br.com.elder.todolist.user;
 
+
 public class UserModel {
 
     public String username;
